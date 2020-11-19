@@ -8,10 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "users": [
+    {"id":1,"name":"牛奶咖啡","phone":"17689845304"}
+  ],
   "profile": {
     "name": "typicode"
   }
-  "users":[
-  {"id":1,"name":"牛奶咖啡","phone":"17689845304"}
-  ]
+  
 }
